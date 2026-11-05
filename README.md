@@ -18,11 +18,11 @@
 
 ---
 
-<p align="center">
-  ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
-  ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-  ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
+ <p align="center">
+  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white" alt="CSS" />
 </p>
 
 ---
