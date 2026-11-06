@@ -8,6 +8,10 @@
   A simple and responsive web application that provides multiple random generators in one place.
 </p>
 
+<p align="center">
+  A randmo is responsive random things generator interesting thing in world of randomness.
+</p>
+
 ## 👨‍💻 Project Developers
 
 | Developer Name | Roll Number |
