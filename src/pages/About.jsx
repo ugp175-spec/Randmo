@@ -16,7 +16,11 @@ export default function About() {
       <h2>Technology used</h2>
       <p>React, Vite, JavaScript, React Router, CSS and browser localStorage.</p>
       <h2>About the developers</h2>
-      <p>Randmo was created by Utsav Prajapati, Somil Varotariya and Ashwin Prajapati as a fun project to learn React and build something useful.</p>
+      <p>Randmo was created by </p>
+      <p>Utsav Prajapati</p>
+      <p>Somil Varotariya</p>
+      <p>Ashwin Prajapati</p>
+      <p>GitHub: <a href="https://github.com/ugp175-spec/Randmo" target="_blank" rel="noopener noreferrer">https://github.com/ugp175-spec/Randmo</a></p>
       <p>We hope you enjoy using it!</p>
     </div>
   );
