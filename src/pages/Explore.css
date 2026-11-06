@@ -1,0 +1,11 @@
+.explore-page { padding-top: 38px; }
+.page-heading { margin-bottom: 22px; }
+.page-heading h1 { color: #29223d; font-size: 32px; margin: 0 0 7px; }
+.page-heading p { color: #716b7c; margin: 0; font-size: 14px; }
+.search-field { display: flex; align-items: center; gap: 10px; max-width: 600px; padding: 0 13px; height: 46px; background: #fff; border: 1px solid #ddd8e8; border-radius: 8px; color: #766e84; }
+.search-field input { width: 100%; border: 0; outline: none; font-size: 14px; color: #29223d; background: transparent; }
+.category-list { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 22px; }
+.category-button { padding: 8px 13px; border: 1px solid #ddd8e8; border-radius: 20px; background: #fff; color: #625b70; cursor: pointer; font-size: 13px; }
+.category-button.selected, .category-button:hover { color: #fff; background: #7651c8; border-color: #7651c8; }
+.result-count { color: #716b7c; font-size: 13px; margin-bottom: 12px; }
+.empty-message { padding: 35px; background: #fff; border: 1px solid #e7e3ee; border-radius: 9px; color: #716b7c; text-align: center; }

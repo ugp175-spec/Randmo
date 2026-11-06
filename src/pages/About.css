@@ -1,0 +1,4 @@
+.about-page { max-width: 800px; }
+.about-page h2 { color: #39285f; font-size: 19px; margin-top: 27px; }
+.about-page p, .about-page li { color: #625b70; font-size: 14px; line-height: 1.8; }
+.about-page ul { padding-left: 22px; }

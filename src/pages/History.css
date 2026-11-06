@@ -1,0 +1,7 @@
+.history-heading { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 22px; }
+.history-item { padding: 15px; background: #fff; border: 1px solid #e7e3ee; border-radius: 8px; }
+.history-item strong { color: #39285f; }
+.history-item p { margin: 6px 0; color: #514a60; overflow-wrap: anywhere; }
+.history-item small { color: #898392; }
+.clear-button { display: inline-flex; align-items: center; gap: 6px; padding: 8px 11px; color: #a33c58; background: #fff; border: 1px solid #ead8df; border-radius: 6px; cursor: pointer; }
+@media (max-width: 500px) { .history-heading { align-items: flex-start; flex-direction: column; } }

@@ -1,0 +1,10 @@
+.secondary-page { padding-top: 38px; min-height: 420px; }
+.secondary-page h1 { margin: 0 0 7px; color: #29223d; font-size: 30px; }
+.secondary-page > p { color: #716b7c; font-size: 14px; margin: 0 0 22px; }
+.saved-list { display: grid; gap: 11px; }
+.saved-item { display: flex; align-items: center; justify-content: space-between; gap: 15px; padding: 16px; background: #fff; border: 1px solid #e7e3ee; border-radius: 8px; }
+.saved-item strong { color: #39285f; }
+.saved-item p { margin: 6px 0; color: #514a60; overflow-wrap: anywhere; }
+.saved-item small { color: #898392; }
+.saved-item button { display: grid; place-items: center; padding: 9px; color: #a33c58; background: #fff; border: 1px solid #ead8df; border-radius: 6px; cursor: pointer; }
+.empty-card { padding: 28px; background: #fff; border: 1px solid #e7e3ee; border-radius: 8px; color: #716b7c; text-align: center; }
